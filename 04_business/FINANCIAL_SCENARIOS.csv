@@ -1,4 +1,4 @@
-Scenario,Children,Fee_INR,Revenue_INR,Fixed_Direct_Cost_INR,Variable_Cost_Per_Child_INR,Total_Direct_Cost_INR,Contribution_INR,Notes
-Downside,10,6000,60000,110000,1400,124000,-64000,Illustrative assumptions only; exclude overhead tax and capex
-Base,20,9000,180000,110000,1400,138000,42000,Illustrative assumptions only; exclude overhead tax and capex
-Upside,24,12000,288000,110000,1400,143600,144400,Illustrative assumptions only; exclude overhead tax and capex
+Scenario,Children,Fee_INR,Revenue_INR,Fixed_Direct_Cost_INR,Variable_Cost_Per_Child_INR,Total_Direct_Cost_INR,Contribution_INR,Margin_On_Revenue,Assumption_Status,Notes
+Downside,10,6000,60000,110000,1400,124000,-64000,-1.066667,ILLUSTRATIVE,Direct contribution only excludes overhead taxes acquisition refunds startup capex
+Base,20,9000,180000,110000,1400,138000,42000,0.233333,ILLUSTRATIVE,Not supplier quotes; staffing capacity and unit costs must be reviewed
+Upside,24,12000,288000,110000,1400,143600,144400,0.501389,ILLUSTRATIVE,Do not assume safe capacity scales to 24 without staffing and venue review
