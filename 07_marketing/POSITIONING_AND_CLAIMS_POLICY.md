@@ -20,3 +20,15 @@
 **Competitive messaging:** name factual alternative features only when recently verified. Do not invent poor safety standards or quality at competitor institutions.
 
 **Review workflow:** every campaign receives evidence reference, claim risk level, child safeguarding review for imagery and founder approval. Archive previous wording and complaints.
+
+---
+## Expanded operating instructions
+
+## Claim review rules
+**Low risk, if truthful:** “Designed for hands-on practice in teamwork and financial decisions”; “12-week proposed pilot”; “non-ranking feedback”; “optional family activities.”
+
+**Do not publish without strong proof:** “guaranteed future ready,” “our method increases IQ,” “prevents mental health problems,” “replaces school,” “the only program in India,” or numerical progress from unvalidated rubrics.
+
+For each proposed marketing statement record claim text, evidence link and date, reviewer, risk level, revised approved wording and validity period. Testimonials should preserve actual meaning and require separate consent; no pressure on guardians or children.
+
+Comparisons must be factual, recent, and avoid unsourced negative statements about named competitors. No fear-based AI messaging or shame-based performance charts.
