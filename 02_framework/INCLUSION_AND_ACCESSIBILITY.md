@@ -11,3 +11,16 @@
 Every plan must specify at least one accessible alternative, a break option, a no-public-performance option and an escalation pathway.
 ## Open validation
 Conduct accessibility walkthrough and specialist review before enrollment; do not claim universal accessibility without evidence.
+
+
+---
+## Quality expansion — actionable protocols
+
+## Universal access protocol
+Each session requires an accessible visual agenda, plain-language instructions, meaningful nonverbal participation, seating alternatives, quiet space, safe toilet access, and an easy no-penalty break/opt-out. Adapt group size and sensory intensity. Do not require touch, eye contact, public speaking or personal disclosure.
+
+**Private accommodation intake:** ask guardians about supports helpful for participation, not unnecessary diagnoses. Record sensitive details only in a restricted system. The facilitator receives essential task accommodations, not the full medical history.
+
+**Review checklist:** Can a child with mobility limitations access all activity zones and emergency exits? Can a child with hearing/vision differences follow the activity? Are examples culturally respectful and available in suitable languages? Is a meaningful alternative activity available? Does the child have a way to raise concerns confidentially?
+
+**Escalation:** if a requirement is beyond trained staff capacity, seek a qualified specialist and discuss reasonable modifications with the guardian and child before enrollment.
