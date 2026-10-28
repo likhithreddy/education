@@ -24,3 +24,17 @@ For children aged 9–12. Weekly 3-hour guided sessions using practical projects
 **Complaint escalation:** acknowledge promptly without defensiveness, provide safeguarding lead/alternative contact, keep details private and provide a written update under a reviewed timetable.
 
 **Media:** use child work only with distinct and revocable consent; no implicit consent from attendance or group chat membership.
+
+---
+## Expanded operating instructions
+
+## Parent communication scripts and escalation
+**Research outreach:** “We're studying hands-on life-readiness experiences for children 9–12. We're looking for what families already do and what is missing. This is voluntary research, not an enrollment offer.”
+
+**Orientation:** give the actual venue, staffing, schedule, age limits, safety and privacy contacts, optional activity choices, refunds, incident escalation and accessible participation arrangements.
+
+**Weekly update:** describe the fictional challenge, skills practiced and one concrete example, not a permanent child label or numerical development score. An optional family reflection should require no paid materials.
+
+**Complaint route:** confirm receipt, provide safeguarding officer or alternate independent contact, document actions confidentially and follow qualified reporting obligations. Never discuss one child's sensitive information in group chats.
+
+**Media:** images require separate child-sensitive consent and must not appear as proof of developmental outcomes.
