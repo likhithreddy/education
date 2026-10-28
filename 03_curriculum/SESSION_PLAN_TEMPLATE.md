@@ -1,0 +1,15 @@
+# Session Plan Template
+- Week/theme:
+- Target age / accessibility adaptations:
+- Desired child experience (not performance target):
+- Materials and venue layout:
+- Risks: tools, food, allergies, movement, images, data:
+- Staff assignments and ratios:
+- Opening check-in and child choice:
+- Activity A and alternatives:
+- Break:
+- Activity B and alternatives:
+- Reflection prompts:
+- Parent handover and optional home activity:
+- Evidence to capture (minimal):
+- Incidents/near misses and follow-up:

@@ -1,0 +1,82 @@
+ID,Workstream,Task,Primary Owner,Deliverable,Gate,Status,Dependencies/Notes
+T001,Governance,Finalize mission and target outcomes,AI,00_governance/PROJECT_CHARTER.md,G0,AI DRAFT COMPLETE — REVIEW REQUIRED,Deliverable produced; expert/founder/local validation required before pilot
+T002,Governance,Approve scope and initial pilot assumptions,FOUNDER,Signed decision record,G0,NOT STARTED,"Requires human verification for live market, legal, safety and operational facts"
+T003,Governance,Establish decision rights and gate criteria,AI,00_governance/DECISION_GATES.md,G0,AI DRAFT COMPLETE — REVIEW REQUIRED,Deliverable produced; expert/founder/local validation required before pilot
+T004,Governance,Create risk register and mitigation owners,AI,00_governance/RISK_REGISTER.md,G0,AI DRAFT COMPLETE — REVIEW REQUIRED,Deliverable produced; expert/founder/local validation required before pilot
+T005,Governance,Set budget ceiling and loss tolerance,FOUNDER,Approved budget ceiling,G0,NOT STARTED,"Requires human verification for live market, legal, safety and operational facts"
+T006,Governance,Set milestone calendar and dependency plan,AI,00_governance/DECISION_GATES.md,G0,AI DRAFT COMPLETE — REVIEW REQUIRED,Deliverable produced; expert/founder/local validation required before pilot
+T007,Research,Map global education analogues,AI,01_research/COMPETITOR_LANDSCAPE.md,G1,PARTIAL — VERIFICATION REQUIRED,"Artifact produced but live verification, operational backend or actual financial inputs missing"
+T008,Research,Verify live Hyderabad competitors and pricing,AI,Competitor evidence register,G1,BLOCKED — EXTERNAL EVIDENCE,Requires real parent/market/pilot data; no results fabricated
+T009,Research,Validate catchment travel time and family demographics,AI,Catchment analysis,G1,BLOCKED — EXTERNAL EVIDENCE,Requires real parent/market/pilot data; no results fabricated
+T010,Research,Draft neutral parent interview guide,AI,01_research/MARKET_VALIDATION.md,G1,AI DRAFT COMPLETE — REVIEW REQUIRED,Deliverable produced; expert/founder/local validation required before pilot
+T011,Research,Recruit diverse guardian interviewees,FIELD,Interview recruitment log,G1,NOT STARTED,"Requires human verification for live market, legal, safety and operational facts"
+T012,Research,Conduct and record parent interviews,FIELD,25–40 consented interviews,G1,NOT STARTED,"Requires human verification for live market, legal, safety and operational facts"
+T013,Research,Interview educators and child specialists,FIELD,5–10 interviews,G1,NOT STARTED,"Requires human verification for live market, legal, safety and operational facts"
+T014,Research,Analyze interview themes and demand evidence,AI,Demand validation memo,G1,BLOCKED — EXTERNAL EVIDENCE,Requires real parent/market/pilot data; no results fabricated
+T015,Research,Collect actual competitor quotes/reviews,FIELD,Dated competitor evidence,G1,NOT STARTED,"Requires human verification for live market, legal, safety and operational facts"
+T016,Research,Validate willingness-to-pay via ethical offers,JOINT,Price evidence report,G1,NOT STARTED,"Requires human verification for live market, legal, safety and operational facts"
+T017,Research,Approve market go/no-go,FOUNDER,Gate G1 decision,G1,NOT STARTED,"Requires human verification for live market, legal, safety and operational facts"
+T018,Framework,Define 12 development domains,AI,02_framework/DEVELOPMENT_FRAMEWORK.md,G2,AI DRAFT COMPLETE — REVIEW REQUIRED,Deliverable produced; expert/founder/local validation required before pilot
+T019,Framework,Create age 3–18 progression map,AI,Age progression draft,G2,AI DRAFT COMPLETE — REVIEW REQUIRED,Deliverable produced; expert/founder/local validation required before pilot
+T020,Framework,Design accessibility and inclusion guidelines,AI,Adaptation guide,G2,AI DRAFT COMPLETE — REVIEW REQUIRED,Deliverable produced; expert/founder/local validation required before pilot
+T021,Framework,Review child-development appropriateness,SPECIALIST,Written expert review,G2,NOT STARTED,"Requires human verification for live market, legal, safety and operational facts"
+T022,Framework,Design non-ranking portfolio rubric,AI,02_framework/ASSESSMENT_PROTOCOL.md,G2,AI DRAFT COMPLETE — REVIEW REQUIRED,Deliverable produced; expert/founder/local validation required before pilot
+T023,Framework,Review assessment for bias and harms,SPECIALIST,Assessment review,G2,NOT STARTED,"Requires human verification for live market, legal, safety and operational facts"
+T024,Framework,Set family involvement boundaries,AI,Family activity policy,G2,AI DRAFT COMPLETE — REVIEW REQUIRED,Deliverable produced; expert/founder/local validation required before pilot
+T025,Curriculum,Design 12-week pilot sequence,AI,03_curriculum/12_WEEK_CURRICULUM.md,G2,AI DRAFT COMPLETE — REVIEW REQUIRED,Deliverable produced; expert/founder/local validation required before pilot
+T026,Curriculum,Develop 12 detailed session plans,AI,12 facilitator plans,G2,AI DRAFT COMPLETE — REVIEW REQUIRED,Deliverable produced; expert/founder/local validation required before pilot
+T027,Curriculum,Prepare materials and procurement list,AI,Session bill of materials,G2,AI DRAFT COMPLETE — REVIEW REQUIRED,Deliverable produced; expert/founder/local validation required before pilot
+T028,Curriculum,Design capstone and reflection artifacts,AI,Capstone guide,G2,AI DRAFT COMPLETE — REVIEW REQUIRED,Deliverable produced; expert/founder/local validation required before pilot
+T029,Curriculum,Design activity risk assessments,AI,Risk assessment drafts,G2,AI DRAFT COMPLETE — REVIEW REQUIRED,Deliverable produced; expert/founder/local validation required before pilot
+T030,Curriculum,Test two activities with supervised volunteers,FIELD,Trial observation notes,G2,NOT STARTED,"Requires human verification for live market, legal, safety and operational facts"
+T031,Curriculum,Revise curriculum using child feedback,AI,Curriculum revision,G2,BLOCKED — EXTERNAL EVIDENCE,Requires real parent/market/pilot data; no results fabricated
+T032,Curriculum,Obtain specialist curriculum sign-off,SPECIALIST,Approval note,G2,NOT STARTED,"Requires human verification for live market, legal, safety and operational facts"
+T033,Business,Build pilot unit economics and scenarios,AI,04_business/UNIT_ECONOMICS.md,G1,PARTIAL — VERIFICATION REQUIRED,"Artifact produced but live verification, operational backend or actual financial inputs missing"
+T034,Business,Get actual venue/staff/material/insurance quotes,FIELD,Quote pack,G3,NOT STARTED,"Requires human verification for live market, legal, safety and operational facts"
+T035,Business,Refine cashflow and break-even model,AI,Updated financial model,G3,PARTIAL — VERIFICATION REQUIRED,"Artifact produced but live verification, operational backend or actual financial inputs missing"
+T036,Business,Approve pricing and refund policy,FOUNDER,Approved commercial terms,G3,NOT STARTED,"Requires human verification for live market, legal, safety and operational facts"
+T037,Business,Select legal entity and tax approach,JOINT,Professional options memo,G3,NOT STARTED,"Requires human verification for live market, legal, safety and operational facts"
+T038,Business,Execute business registration and tax filings,FOUNDER,Official filings,G3,NOT STARTED,"Requires human verification for live market, legal, safety and operational facts"
+T039,Business,Get accountant review of GST and invoices,SPECIALIST,Tax opinion,G3,NOT STARTED,"Requires human verification for live market, legal, safety and operational facts"
+T040,Business,Approve cash reserve and spending,FOUNDER,Funding authorization,G3,NOT STARTED,"Requires human verification for live market, legal, safety and operational facts"
+T041,Safety,Draft child safeguarding policy,AI,06_safeguarding/CHILD_SAFETY_AND_PRIVACY.md,G3,AI DRAFT COMPLETE — REVIEW REQUIRED,Deliverable produced; expert/founder/local validation required before pilot
+T042,Safety,Obtain local legal/regulatory opinion,SPECIALIST,Signed compliance checklist,G3,NOT STARTED,"Requires human verification for live market, legal, safety and operational facts"
+T043,Safety,Prepare guardian consent and emergency forms,AI,Enrollment packet draft,G3,AI DRAFT COMPLETE — REVIEW REQUIRED,Deliverable produced; expert/founder/local validation required before pilot
+T044,Safety,Approve consent/privacy and retention practices,SPECIALIST,Privacy sign-off,G3,NOT STARTED,"Requires human verification for live market, legal, safety and operational facts"
+T045,Safety,Implement staff vetting and code of conduct,FIELD,Verification records,G3,NOT STARTED,"Requires human verification for live market, legal, safety and operational facts"
+T046,Safety,Train staff in reporting and boundaries,SPECIALIST,Training completion evidence,G3,NOT STARTED,"Requires human verification for live market, legal, safety and operational facts"
+T047,Safety,"Set up emergency, incident and complaint pathways",FIELD,Drill logs and contacts,G3,NOT STARTED,"Requires human verification for live market, legal, safety and operational facts"
+T048,Safety,Purchase suitable insurance,FOUNDER,Insurance policy,G3,NOT STARTED,"Requires human verification for live market, legal, safety and operational facts"
+T049,Safety,Verify safety clearance before launch,SPECIALIST,Safety sign-off,G3,NOT STARTED,"Requires human verification for live market, legal, safety and operational facts"
+T050,Operations,Develop staffing and venue specifications,AI,05_operations/OPERATIONS_PLAN.md,G3,AI DRAFT COMPLETE — REVIEW REQUIRED,Deliverable produced; expert/founder/local validation required before pilot
+T051,Operations,Shortlist and inspect venues,FIELD,Venue inspection records,G3,NOT STARTED,"Requires human verification for live market, legal, safety and operational facts"
+T052,Operations,Negotiate and sign venue contract,FOUNDER,Signed contract,G3,NOT STARTED,"Requires human verification for live market, legal, safety and operational facts"
+T053,Operations,Recruit and hire qualified facilitators,FIELD,Staff contracts,G3,NOT STARTED,"Requires human verification for live market, legal, safety and operational facts"
+T054,Operations,Procure materials and first-aid supplies,FIELD,Inventory,G3,NOT STARTED,"Requires human verification for live market, legal, safety and operational facts"
+T055,Operations,Design sign-in/out and pickup process,AI,Operational SOP,G3,AI DRAFT COMPLETE — REVIEW REQUIRED,Deliverable produced; expert/founder/local validation required before pilot
+T056,Operations,Conduct readiness and emergency drills,FIELD,Drill reports,G3,NOT STARTED,"Requires human verification for live market, legal, safety and operational facts"
+T057,Operations,Complete launch checklist,JOINT,10_templates/LAUNCH_CHECKLIST.md,G3,NOT STARTED,"Requires human verification for live market, legal, safety and operational facts"
+T058,Marketing,Create positioning and claims policy,AI,04_business/GO_TO_MARKET.md,G1,AI DRAFT COMPLETE — REVIEW REQUIRED,Deliverable produced; expert/founder/local validation required before pilot
+T059,Marketing,Draft parent concept card and FAQ,AI,07_marketing/PARENT_COMMUNICATION.md,G1,AI DRAFT COMPLETE — REVIEW REQUIRED,Deliverable produced; expert/founder/local validation required before pilot
+T060,Marketing,Create ethical landing-page copy,AI,Marketing copy,G2,AI DRAFT COMPLETE — REVIEW REQUIRED,Deliverable produced; expert/founder/local validation required before pilot
+T061,Marketing,Build website and waitlist form,AI,Working website source,G2,PARTIAL — VERIFICATION REQUIRED,"Artifact produced but live verification, operational backend or actual financial inputs missing"
+T062,Marketing,"Approve branding, domain and spend",FOUNDER,Brand approvals,G2,NOT STARTED,"Requires human verification for live market, legal, safety and operational facts"
+T063,Marketing,Conduct outreach to parents and schools,FIELD,Outreach log,G3,NOT STARTED,"Requires human verification for live market, legal, safety and operational facts"
+T064,Marketing,Host information session and answer questions,FIELD,Session notes,G3,NOT STARTED,"Requires human verification for live market, legal, safety and operational facts"
+T065,Marketing,Collect enrollments and guardian documents,FIELD,Enrollment records,G3,NOT STARTED,"Requires human verification for live market, legal, safety and operational facts"
+T066,Technology,Define minimum data and security requirements,AI,08_technology/PRODUCT_REQUIREMENTS.md,G2,AI DRAFT COMPLETE — REVIEW REQUIRED,Deliverable produced; expert/founder/local validation required before pilot
+T067,Technology,Configure secure operations tooling,FIELD,Access controlled tools,G3,NOT STARTED,"Requires human verification for live market, legal, safety and operational facts"
+T068,Technology,"Test data access, deletion and backups",FIELD,Test evidence,G3,NOT STARTED,"Requires human verification for live market, legal, safety and operational facts"
+T069,Technology,Train staff on child data handling,SPECIALIST,Training log,G3,NOT STARTED,"Requires human verification for live market, legal, safety and operational facts"
+T070,Pilot,Create weekly runbook and scorecard,AI,09_pilot/PILOT_RUNBOOK.md,G3,AI DRAFT COMPLETE — REVIEW REQUIRED,Deliverable produced; expert/founder/local validation required before pilot
+T071,Pilot,Finalize baseline and feedback instruments,AI,09_pilot/EVALUATION_SCORECARD.md,G3,AI DRAFT COMPLETE — REVIEW REQUIRED,Deliverable produced; expert/founder/local validation required before pilot
+T072,Pilot,Authorize launch after all safety gates,FOUNDER,Signed go decision,G3,NOT STARTED,"Requires human verification for live market, legal, safety and operational facts"
+T073,Pilot,Deliver sessions 1–6,FIELD,Attendance and session logs,G4,NOT STARTED,"Requires human verification for live market, legal, safety and operational facts"
+T074,Pilot,Analyze midpoint data and risks,AI,Midpoint report,G4,BLOCKED — EXTERNAL EVIDENCE,Requires real parent/market/pilot data; no results fabricated
+T075,Pilot,Decide continue/pause/modify,FOUNDER,Midpoint decision,G4,NOT STARTED,"Requires human verification for live market, legal, safety and operational facts"
+T076,Pilot,Deliver sessions 7–12,FIELD,Attendance and session logs,G5,NOT STARTED,"Requires human verification for live market, legal, safety and operational facts"
+T077,Pilot,Run child-led capstone showcase,FIELD,Showcase record,G5,NOT STARTED,"Requires human verification for live market, legal, safety and operational facts"
+T078,Pilot,Collect endline child/guardian feedback,FIELD,Consented feedback,G5,NOT STARTED,"Requires human verification for live market, legal, safety and operational facts"
+T079,Pilot,Analyze outcomes and economics,AI,Pilot evaluation report,G5,BLOCKED — EXTERNAL EVIDENCE,Requires real parent/market/pilot data; no results fabricated
+T080,Pilot,Review safety and data handling,SPECIALIST,Audit report,G5,NOT STARTED,"Requires human verification for live market, legal, safety and operational facts"
+T081,Pilot,"Decide iterate, expand or stop",FOUNDER,Pilot decision memo,G5,NOT STARTED,"Requires human verification for live market, legal, safety and operational facts"

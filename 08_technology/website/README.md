@@ -1,0 +1,2 @@
+# Static research landing page
+Open `index.html` locally. **No backend or data collection** is implemented intentionally. A production waitlist requires a secure guardian-only backend, consent logging, rate limiting, access controls, retention policy, deletion workflow, accessibility testing, and legal review. T061 is PARTIAL, not complete.
