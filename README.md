@@ -32,3 +32,8 @@ Official public policies and cited published sources; dated local business evide
 3. Get child-development and legal/safeguarding sign-off.
 4. Confirm price, vendor/venue quotations and staffing.
 5. Authorize a small pilot only after documented no-go risks are closed.
+
+
+### Fresh primary desk-research and economics
+- [Hyderabad alternatives as of 2026-10-28](01_research/HYDERABAD_DESK_RESEARCH_2026-10-28.md) — ten cited alternatives, active pricing not yet vendor-confirmed.
+- [Canonical financial model](04_business/CANONICAL_FINANCIAL_MODEL.md) — harmonized **illustrative** scenario with actual supplier quotes outstanding.
