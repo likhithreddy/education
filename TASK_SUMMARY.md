@@ -13,3 +13,7 @@ This branch expands the 12 weekly session drafts, 12-domain framework, governanc
 **Not newly completed by this quality pass:** real Hyderabad competitor and pricing verification; parent interview execution/analysis; vendor quotations; qualified developmental/POCSO/privacy review; physical venue and staff screening; actual enrollment or pilot outcome collection. The AI task status totals remain conservative until verified evidence is attached.
 
 **Financial consistency note:** distinguish illustrative fixed direct cost assumptions (₹110,000 plus ₹1,400 per child in `FINANCIAL_SCENARIOS.csv`) from older simplified cost assumptions elsewhere. Neither is a real quotation. Create a single sourced operating budget before investment approval.
+
+
+### Source-grounded progress
+Added dated desk research for ten Hyderabad alternatives and government primary-source references. These fulfill a portion of public desk research but not direct provider pricing checks, a full micro-market census, interviews or demand validation. Canonical financial scenario now uses ₹110,000 cohort fixed direct cost plus ₹1,400 per child, both unverified assumptions; base contribution ₹42,000 at 20 paid × ₹9,000.
