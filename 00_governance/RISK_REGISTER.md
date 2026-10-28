@@ -11,3 +11,25 @@
 | R08 | Low retention | Medium | High | engaging activities, child voice, guardian communication | FIELD |
 | R09 | Unsafe AI use | Medium | High | no direct unmoderated minor access, human approval, no sensitive profiling | AI/FIELD |
 | R10 | Cash shortfall | Medium | High | deposits policy, cost ceiling, enrollment threshold, reserve | FOUNDER |
+
+
+---
+## Quality expansion — implementation requirements
+
+## Operational risk response cards
+
+**Missing participant at transition:** stop movement, keep remaining group supervised, activate site emergency plan, contact guardian and authorities when warranted, record exact timestamps, do not allow informal unsupported search.
+
+**Unauthorized pickup:** maintain child in secure supervised space, verify the authorized guardian through previously recorded channel, escalate to safeguarding lead; no release on an ad hoc verbal claim.
+
+**Abuse concern/disclosure:** listen without leading questions or promises of secrecy; preserve the child's words; promptly follow mandatory reporting duties as confirmed by qualified counsel. Internal staff must not interrogate.
+
+**Medical or food incident:** stop relevant activity; qualified first aid and emergency services as required; guardian notification; record exposure and response; never offer medical advice beyond trained scope.
+
+**Facilitator absence:** prevent check-in if staffing drops below the reviewed safe minimum; offer reschedule/refund, not an unvetted substitute.
+
+**Data exposure:** contain credentials, preserve logs, escalate to privacy lead and legal counsel for breach obligations; do not place child-level records in public GitHub.
+
+**Financial failure:** stage expenditure by gates and keep refundable deposits fully covered.
+
+Use a weekly risk board with likelihood, severity, owner, mitigation evidence, residual severity, due date and a stop trigger. Any critical child-safety risk blocks operating regardless of score.

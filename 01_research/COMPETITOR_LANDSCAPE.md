@@ -25,3 +25,17 @@
 - CDC child development: https://www.cdc.gov/child-development/
 
 **Evidence protocol:** For each market claim record URL, access date, geography, exact quotation or numeric figure, verification status, and contradictory evidence. Do not treat these references as endorsements.
+
+
+---
+## Quality expansion — implementation requirements
+
+## Competitor intelligence protocol
+
+Define the catchment before comparing: realistic family journey time on weekends from candidate Hyderabad neighborhoods. Direct substitutes include recurring experiential/life-skills classes; indirect options include Montessori and alternative schools, Scouts, sports, maker spaces, family-led outings, financial literacy programs, KidZania-style mini-cities, summer camps and community initiatives. Never call the opportunity unique before checking substitutes.
+
+For each provider log legal/brand name, exact address, public listing, target ages, program hours, current fee and inclusions, delivery style, repeated progression, accessibility and safeguarding statements, official source link, verification date and confidence level. If price is not published, record **Unknown**, not an inferred figure. Compare value per supervised child-hour only where inclusions align.
+
+Use official program sources, business listings and recent parent community feedback as separate evidence categories. Document search terms and unconfirmed exclusions. Obtain actual prices and schedules from providers where permitted, and retain dated evidence. Interview parents about alternatives they considered and why they declined them.
+
+**Acceptance criterion:** a dated evidence register that supports a fair, non-defamatory SWOT and explicitly separates (a) verified offers, (b) parent perceptions, and (c) our hypotheses. No unsupported safety or quality accusations against competitors.

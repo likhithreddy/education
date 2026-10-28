@@ -21,3 +21,22 @@ Ages 3–6: play, attachment, language, exploration; ages 7–10: routines, coop
 
 ## Portfolio model
 Collect a small number of artifacts: child-selected photo of work (optional consent), reflection, mentor observation, guardian feedback. Use descriptive statements: 'explained two ways to solve a problem', not 'social IQ 87/100'.
+
+
+---
+## Quality expansion — actionable protocols
+
+## Educational design rules
+A domain is an organizing lens; skills must be defined as behaviors. Example: communication is not “confidence” as a personal label but asking a clarifying question, restating a peer's request, and describing a decision. Each challenge must integrate at least three dimensions with role choice, child autonomy, reflection and feasible observation.
+
+### Twelve-domain integration
+Emotional awareness; relationships; financial decisions; reasoning; physical literacy; practical independence; making and creativity; communication; character/ethics; digital and AI judgment; agency and exploration; civic/environmental responsibility.
+
+### Per-activity contract
+Every planned experience must document: child-relevant scenario; preconditions; facilitator demonstration; authentic choices; inclusive adaptations; prompts; learning evidence; safety controls; optional family follow-through; explicit stop condition. Record whether the child enjoyed it, not only the desired skill.
+
+### Reviewer challenge
+What would make this task coercive, stigmatizing, overly complex, developmentally inappropriate or inaccessible? What alternate mode produces equivalent participation? What evidence could disprove our theory of benefit?
+
+### Guardrails
+Avoid rigid developmental rank or fixed personality labels, and do not equate high achievement with high income, obedience or introversion/extroversion. Invite independent specialist revision.

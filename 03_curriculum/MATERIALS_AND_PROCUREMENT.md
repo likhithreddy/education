@@ -15,3 +15,16 @@
 | Emergency contact / pickup logs | 20 records | Safety | Locked or access-controlled |
 
 **Pricing:** obtain three local quotes per major category; calculate tax, delivery, replacement and contingency. No prices are verified in this document.
+
+
+---
+## Quality expansion — actionable protocols
+
+## Procurement control workflow
+List each activity-specific SKU with quantity per child/station, shared stock, safe alternative, vendor, tax/shipping quote, lead time, reuse potential, storage/sanitization, hazard review and receipt. Costs in existing planning documents are illustrative—not vendor quotations.
+
+**Acceptance inspections:** non-toxic labels on art supplies; blunt-edge tools; washable surfaces; no latex exposure where relevant; classroom-sized equipment stable on the actual floor; sufficient larger-print and tactile options.
+
+**Ordering rule:** no buying until signed session design, allocation ceiling and two comparative quotes for material categories where practicable. Document substitution decisions because a cheaper material can change risk.
+
+**Inventory:** issue to named session lead, count before/after, record damage, keep allergen-related items segregated and replace damaged supplies. Store vendor data and receipts in private accounting systems if they contain personal details.

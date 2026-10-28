@@ -57,3 +57,19 @@
 - **Technology:** Verify information and protect privacy
 - **Career:** Explore diverse work and interests
 - **Citizenship:** Participate in supervised community problem-solving
+
+
+---
+## Quality expansion — actionable protocols
+
+## Progression across developmental periods
+**Ages 3–6:** play, relational security, sensory exploration, naming everyday needs and asking a trusted adult for help. Use short games, parent/guardian-supported activities and observation, not lessons on investment or careers.
+
+**Ages 7–10:** practical responsibility with adult oversight; needs/wants, cooperation, safe routines, negotiation in fictional settings, introductory digital boundaries, making and nature exploration.
+
+**Ages 11–14:** more ambiguous cases; budgeting multi-step choices, peer disagreement, privacy and AI verification, community-design projects, decision consequences and small-group leadership roles.
+
+**Ages 15–18:** phased independent planning, civic contribution, work shadowing with safeguards, complex financial and ethical trade-offs, critical technology use, personal purpose and relationships. Avoid unsafe labor or exploitation.
+
+### Personalized entry points
+Age recommendations do not imply identical developmental milestones. For each activity provide beginning, supported and extension modes plus a choice to participate quietly or differently. Repeat in different contexts before asserting reliable capability.

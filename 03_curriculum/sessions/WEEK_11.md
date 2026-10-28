@@ -43,3 +43,32 @@ Offer an optional 10–15 minute home conversation or low-cost task related to *
 
 ## Facilitator debrief
 What engaged children? Which instructions failed? What accommodations were used? Any safety concerns? What should change next week? Log changes before repeating session.
+
+
+---
+## Facilitator extension v2 — Capstone planning and rehearsal
+
+### Concrete demonstrations and scenario prompts
+1. **Scenario 1:** Offer child-selected options for prototype, mini exhibition or private portfolio reflection. Ask children: “What information would change your decision?”, “Whose perspective is missing?”, and “How can we test this safely?”
+2. **Scenario 2:** Groups create a clear goal, task board, simple resource budget and backup plan. Ask children: “What information would change your decision?”, “Whose perspective is missing?”, and “How can we test this safely?”
+3. **Scenario 3:** Rehearse with peer questions and adjust for the audience or accessibility needs. Ask children: “What information would change your decision?”, “Whose perspective is missing?”, and “How can we test this safely?”
+
+### 180-minute delivery protocol
+- **0–15 arrival:** check-in, quiet space and voluntary introductions.
+- **15–35 connection:** model target behavior twice including a mistake and respectful correction.
+- **35–60 guided demonstration:** elicit alternatives rather than one 'correct personality'.
+- **60–70 supervised break:** confirm every child's location and accessibility.
+- **70–110 main challenge:** supervised groups. At minutes 80, 95 and 105 observe choices rather than inferred traits.
+- **110–125 restorative break:** offer supervised unstructured choice.
+- **125–155 variation:** introduce a constraint and let children adapt or opt out.
+- **155–175 reflection:** oral, drawn or written reflection; discuss uncertainty and support.
+- **175–180 handover:** authorized pickup and confidential incident log.
+
+### Evidence and evaluation
+Record plan quality, changing roles and whether each child had an authentic choice. Use activity-specific descriptions: Not observed; Attempted with support; Demonstrated with support; Demonstrated independently. Record prompts and exact actions, never a permanent child label. Use pseudonymous records.
+
+### Safeguarding stop rule
+Do not require public performance, publication or identifying photographs. Stop for distress, bullying, injury risk, unknown pickup, inadequate supervision or unaddressed access needs. Escalate confidentially.
+
+### Quality checks
+Rehearse scenarios, inspect materials, assign staff roles, prepare opt-out alternatives. Afterward document prompts that worked, observations, and one improvement. Independent review is required before child-facing delivery.

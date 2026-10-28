@@ -28,3 +28,19 @@ Do not ask 'Wouldn't you love your child to become future-ready?' Ask for past b
 - >=25 usable interviews; diverse segments; >=10 credible paid-intent leads; no unresolved safety concerns.
 - Count deposits only if lawful, clearly refundable and processed with written terms.
 - Distinguish stated interest from observed payment behavior.
+
+
+---
+## Quality expansion — implementation requirements
+
+## Primary field research and decision protocol
+
+Interview 30–50 parents of ages 9–12 across differing fee ranges, travel constraints and school contexts; include parents who do not purchase extracurriculars. Speak with 8–12 teachers/child-development practitioners and school administrators. Report how participants were recruited and identify convenience sampling.
+
+Begin with past events: When did your child need a practical skill? What did you do? What other programs have you tried, paid for and stopped? Only then show the proposed 12-week program. Ask about concrete travel time, preferred language, weekend capacity, child interest and expected safety standards.
+
+Test affordability with a real transparent offer after legally reviewed payment/refund procedures exist. Separate **stated willingness**, **registration intent**, **refundable paid deposit**, and **completed paid enrollment**. Record drop-off denominators; family/friend enthusiasm is not a paid demand signal.
+
+Report evidence that contradicts the thesis, including already-satisfied families, child disinterest, weak scheduling fit, no trust in unfamiliar providers and poor willingness to pay. No extrapolation from a tiny qualitative sample to all Hyderabad households.
+
+**Gate decision:** Founder receives a short recommendation supported by interview excerpts (de-identified), alternative-provider research, conversion results, operational cost range, key risks, and explicit missing evidence.

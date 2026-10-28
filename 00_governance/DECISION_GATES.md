@@ -9,3 +9,21 @@
 | G5 Pilot decision | 24 | Results, unit economics, child/parent feedback, safety audit | Founder |
 
 **Rule:** Failure of child safety, legal or safeguarding gate = no launch regardless of sales.
+
+
+---
+## Quality expansion — implementation requirements
+
+## Gate evidence, ownership and stop conditions
+
+| Decision | Required demonstration | Independent veto |
+|---|---|---|
+| Market | Research sampling log; real alternatives; evidence of paid willingness rather than survey-only interest | Founder can stop |
+| Curriculum | For every session: objectives, material test, accessibility adaptation, risk review, observed practice | Child-development reviewer |
+| Compliance | Local counsel's applicability memo, premises permissions and verified insurance | Counsel / authorized authority |
+| Safeguarding | Screening, trained lead, reporting process, completed venue inspection, emergency drill | Safeguarding lead |
+| Finance | Vendor quotes, cash reserve, sensitivity model, refund commitments | Founder |
+| Launch | Signed roster, active guardian consent, authorized pickup workflow and fully rehearsed sessions | Founder AND safeguarding lead |
+| Expansion | Actual cohort results, confidential incident resolution, economics, child voice and parent response | Founder |
+
+A failed gate means **stop or redesign**, never “conditionally launch” with an unresolved critical child safety or legal issue. Log reviewer identity, date, artifacts, unresolved risks and expiry of approvals. Public-facing materials must not claim success from unsigned draft review.

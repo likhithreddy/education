@@ -44,3 +44,11 @@
 - Child-facing materials require qualified educator, safeguarding and local legal review.
 - T061 is a working **static preview**, not a live waitlist service.
 - T014/T031/T074/T079 depend on field/pilot data that do not yet exist.
+
+
+## Quality-upgrade evidence note — 2026-10-28
+Expanded documents and facilitator sections provide more substantial **draft evidence**, not externally verified task completion. The updated quality register `QUALITY_AUDIT.md` enumerates the original 56 files, revisions and required gates. Newly added `01_research/VERIFIED_POLICY_SOURCES.md` links official policy sources and flags phased commencement/legal applicability.
+
+**Status policy:** leave AI DRAFT COMPLETE — REVIEW REQUIRED in place pending independent content review; leave PARTIAL — VERIFICATION REQUIRED until source checks/testing close; leave BLOCKED — EXTERNAL EVIDENCE until field interviews, real costs or pilot observations actually exist. No task should be marked completed solely because documentation was lengthened.
+
+**Data policy:** never commit completed parent interviews, child case histories, guardian contacts, pickup rosters or safeguarding incident records to this public repository. Upload only de-identified, appropriately authorized aggregate analysis.

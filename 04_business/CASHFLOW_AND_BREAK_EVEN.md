@@ -13,3 +13,16 @@ Revenue = N × fee. Direct cost = fixed + N × variable. Contribution = N × (fe
 
 **Controls:** retain contingency; no nonrefundable commitments until founder approval; track actual invoices weekly; model tax, payment fees, discounts, refunds, scholarships and utilization before pricing decision.
 **Updated model status:** scenario calculations complete; final cashflow BLOCKED by actual quotes and payment terms.
+
+
+---
+## Quality expansion — actionable protocols
+
+## Cash-flow stages and downside controls
+Maintain a 26-week monthly and weekly cash projection: prelaunch legal/safety setup, venue deposit, staffing recruitment, materials, marketing, payment collection, recurring session costs, refunds, and post-pilot reporting. Flag due dates separately from accrual costs.
+
+**Downside scenario:** delayed launch, only 10 enrollments, refunds for families who withdraw, venue deposit forfeiture and a rescheduled week. **Upside scenario:** strong enrollment capped by reviewed safe staffing and room occupancy; never count oversubscription as realizable revenue without more resources.
+
+**Launch cap:** founder specifies maximum irreversible spend before market validation and maximum loss if cancelled after enrollment. Compare forecast cash-on-hand to refund reserve and emergency response fund before any commitment.
+
+**Decision:** if signed net paid enrollments fall below the safe and funded break-even plan, founder selects revise pricing, smaller reviewed format, postpone or cancel; do not dilute safety ratios.
