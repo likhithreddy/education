@@ -22,3 +22,17 @@ Visible staff qualifications, child protection policy, emergency plan, transpare
 **Channel comparison:** school/community referral, residential association, parent network, local events, targeted digital campaign. Track spend, leads, attended briefings, eligible families, paid conversion and refund requests by source. Do not harvest school directories or distribute child-identifying marketing lists.
 
 **Proof:** at least one externally recruited cohort with actual paid commitments; separate interests from conversion. If demand is weak, revisit the need rather than intensifying manipulative sales claims.
+
+---
+## Expanded operating instructions
+
+## Ethical channel experiments
+The offer is supervised practical experience and reflection, not a guarantee of intelligence, future success, employability or treatment of anxiety.
+
+**Funnel:** recruit research participants; listen to current behavior; run a safety-approved sample challenge; present transparent duration, price, staff supervision and refund policy; invite child assent; collect qualified guardian interest through a privacy-reviewed adult-only form; confirm paid enrollment.
+
+Track per channel: spend, unique adult inquiries, qualified leads, orientation show-ups, child desire to attend, paid conversions, refunds, withdrawals and parent-reported barriers. Distinguish volunteer interest from real paid commitments.
+
+**Channels to test:** school partnerships, residential communities, local libraries, parent networks and carefully restricted digital campaigns. Do not harvest school contacts or share identifiable children's images for acquisition.
+
+Stop using messaging that scares parents about AI, jobs or their child's inadequacy; claims must be evidence-linked.
