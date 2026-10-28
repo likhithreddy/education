@@ -15,3 +15,18 @@ Child: favorite/least favorite activity and one suggested change (optional). Gua
 Child: 'What would you do differently now?' Guardian: perceived changes, dissatisfaction, willingness to re-enroll (not equal to purchase), price feedback.
 ## Data safeguards
 Collect minimum data; protect identifiers separately; set retention schedule with legal review; avoid public sharing of individual scores.
+
+
+---
+## Detailed implementation supplement
+
+## Standardized practical task examples
+Use equivalent fictional forms at baseline and endline, adjusted only with documented rationale: (A) manage 100 pretend tokens and unexpected essential expense; (B) resolve a disagreement about a group project with “I heard/I propose” framing; (C) identify why a fictional AI-generated claim requires independent checking.
+
+**Observation fields:** pseudonymous ID; date; scenario and difficulty; prompts; child choices; assistance; accommodation; actual demonstrated action; observer; optional child reflection. Mark “not observed” for absent or declining children rather than treating it as failure.
+
+**Child feedback:** “What did you enjoy?”, “What would you change?”, “Was anything uncomfortable?”, “Could you say no or ask for help?” Allow nonverbal and anonymous options when appropriate.
+
+**Parent survey:** child interest, practical application noticed, trust, accessibility, schedule, fees and dissatisfaction. Show response denominators and negative feedback.
+
+**Safety:** allegations of harm cannot remain in a survey spreadsheet; activate safeguarding escalation and confidentiality protocols.
