@@ -24,3 +24,13 @@ Simulate missing pickup, minor injury, fire evacuation, disclosure of abuse, pow
 **Capacity:** review real floor space, activity type, access needs, evacuation flow and break coverage before determining child-to-adult ratio. Do not advertise a fixed maximum based only on economics.
 
 **Exception:** If safe staffing, venue, consent or pickup process is unavailable, cancel/modify the session before admission and provide parents a documented notification and remedy.
+
+---
+## Expanded operating instructions
+
+## Session operations and accountable roles
+**T–7 days:** program lead checks staffing, material inventory, accommodations and unresolved incidents. **T–48h:** facilitators rehearse case prompts and safe alternatives. **T–2h:** safeguarding lead verifies evacuation paths, accessible toilets, first aid, ventilation, activity materials and pickup controls. **T–30m:** staff briefing and attendance roster verification. **Session:** supervised transfers, breaks, factual observation and child choice. **T+1h:** authorized handovers, incident escalation and secure records.
+
+**Responsibilities:** founder controls expenditures and launch; safeguarding lead has independent stop authority; program lead manages venue and roster; facilitators teach and observe; privacy officer controls child records. Safe ratios depend on activity/venue/needs and require independent review, not just budget.
+
+**Stop operation** if staff coverage, site safety, consent, emergency readiness or authorized pickup cannot be maintained. Offer rescheduling or refund rather than improvising an unapproved location.
