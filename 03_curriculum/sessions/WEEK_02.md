@@ -43,3 +43,32 @@ Offer an optional 10–15 minute home conversation or low-cost task related to *
 
 ## Facilitator debrief
 What engaged children? Which instructions failed? What accommodations were used? Any safety concerns? What should change next week? Log changes before repeating session.
+
+
+---
+## Facilitator extension v2 — Active listening and respectful disagreement
+
+### Concrete demonstrations and scenario prompts
+1. **Scenario 1:** Model interrupting versus reflective listening with a harmless fictional topic. Ask children: “What information would change your decision?”, “Whose perspective is missing?”, and “How can we test this safely?”
+2. **Scenario 2:** Run a paired interview with choices of fictional interests; ask one open question and summarize without guessing. Ask children: “What information would change your decision?”, “Whose perspective is missing?”, and “How can we test this safely?”
+3. **Scenario 3:** Facilitate disagreement about a community mural design; each group must articulate the other side fairly. Ask children: “What information would change your decision?”, “Whose perspective is missing?”, and “How can we test this safely?”
+
+### 180-minute delivery protocol
+- **0–15 arrival:** obtain checked-in roster, identify a quiet space and allow a voluntary choice of introduction.
+- **15–35 connection:** model the target behavior twice, including a plausible mistake and a respectful correction.
+- **35–60 guided demonstration:** invite multiple solutions and avoid announcing one 'correct personality'.
+- **60–70 supervised break:** account for every child, check hydration and accessibility.
+- **70–110 main challenge:** work in small supervised groups. At minutes 80, 95 and 105 ask facilitators to note observable choices rather than interpretations.
+- **110–125 restorative break:** supervised unstructured option, private accommodation check.
+- **125–155 variation:** introduce a simple new constraint; ask children to revisit the plan, keeping challenge optional.
+- **155–175 reflection:** choice of oral, drawn or written reflection; invite discussion of uncertainty and helpful support.
+- **175–180 authorized handover:** reconcile sign-out with the private guardian roster and log material incidents confidentially.
+
+### Evidence and evaluation
+Record one concrete example of listening, clarifying, or speaking respectfully; note prompts needed. Use this four-level **activity-specific** observation: Not observed; Attempted with support; Demonstrated with support; Demonstrated independently. Note exact prompt and action. The level is not a stable trait, developmental diagnosis or comparable child score. Collect only pseudonymous session evidence.
+
+### Safeguarding stop rule
+No forced public speaking; permit pair, drawing or recorded-without-storage alternatives. Stop immediately for distress, bullying, unsafe equipment, unknown guardianship, inadequate supervision or unaddressed accessibility barriers. Inform safeguarding lead using the confidential incident pathway.
+
+### Facilitator handoff and quality checks
+Before the session, rehearse the three scenarios, inspect required materials, assign lead/backup roles and record an alternative activity for children who decline. Afterward, summarize which prompts worked, where children needed support, and one content revision. This extension is draft material requiring independent developmental and safety review before use.
