@@ -7,3 +7,14 @@
 5. Unknown adult, missing child, incident or identity mismatch: hold handover, alert safeguarding lead, follow emergency escalation plan and document actions.
 6. After departure, reconcile every child and close roster; restrict access and retention per privacy policy.
 **Forms:** attendance log (date, coded child ID, arrival, departure, verifier), exception log, incident record. Do not place sensitive details in group messaging.
+
+
+---
+## Implementation expansion (requires review)
+
+## Authorized child handoff protocol
+**Enrollment:** verify guardian authority and approved pickup adults through a secure record; agree how emergency changes will be verified. **Arrival:** staff identify adult, record check-in time and child's pseudonymous roster ID, confirm essential accommodations and note attendance. **Transitions:** two-person check where practicable, count children when moving rooms and after breaks. **Departure:** adult proves authorization using the pre-agreed check, staff logs time and identity reference; verbal permission from an unknown number is not sufficient.
+
+**Late collection:** remain with appropriate supervised staffing, call verified guardian through stored number, escalate after agreed threshold, never leave child alone. **Dispute:** do not adjudicate custody; use verified documentation and local advice.
+
+**Records:** attendance retained securely with limited access. Photos of rosters on personal devices and group chat circulation are prohibited. Perform weekly exceptions audit and rehearsal prior to launch.
