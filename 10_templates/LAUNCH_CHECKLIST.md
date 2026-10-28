@@ -1,0 +1,15 @@
+# Launch Authorization Checklist
+- [ ] Legal review completed and written requirements documented
+- [ ] Child safeguarding policy approved and staff trained
+- [ ] Lawful staff vetting and references completed
+- [ ] Venue/fire/accessibility inspection passed
+- [ ] First-aid and emergency drill completed
+- [ ] Staff coverage and substitute plan confirmed
+- [ ] Guardian consent, pickup and emergency details secured
+- [ ] Allergy/food and activity risk assessments completed
+- [ ] Insurance coverage confirmed
+- [ ] Data privacy/retention controls verified
+- [ ] Fees, refunds, cancellation terms approved
+- [ ] Enrollment minimum and budget reserve approved
+- [ ] Child-development specialist curriculum sign-off
+- [ ] Founder written go/no-go decision

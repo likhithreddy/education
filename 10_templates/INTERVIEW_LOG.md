@@ -1,0 +1,14 @@
+# Parent Interview Record
+- Interview ID (no child name):
+- Date / neighborhood / recruitment channel:
+- Child age band:
+- Current activities and real spending:
+- Top unmet needs (verbatim):
+- Existing solutions and frustrations:
+- Weekly availability:
+- Trust/safety requirements:
+- Reaction to neutral concept:
+- Price tradeoffs:
+- Evidence of genuine commitment:
+- Consent to follow up (yes/no):
+- Researcher observations / biases:
