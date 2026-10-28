@@ -1,8 +1,8 @@
 # File-by-File Quality and Readiness Audit
 
-**Audit date:** 2026-10-28 | **Original files:** 56 | **Changed in quality branch:** 52
+**Audit date:** 2026-10-28 | **Original files:** 56 | **Changed in quality branch:** 55
 
-This is a **documentation quality pass**, not a launch approval. A file may have strong draft content and still require legal, developmental, commercial or real-world verification. The original repository included many sub-2KB files and short templates. Improved material is still subject to editorial, specialist and field review.
+This register was initially produced after 52 edits and is now supplemented by 55 of 56 original files revised, plus four new evidence/quality files. The unmodified source-of-truth task CSV is intentionally preserved. This is a **documentation quality pass**, not a launch approval. A file may have strong draft content and still require legal, developmental, commercial or real-world verification. The original repository included many sub-2KB files and short templates. Improved material is still subject to editorial, specialist and field review.
 
 ## Minimum definition of done for every file
 - Contains purpose, intended user and decisions supported.
@@ -92,3 +92,13 @@ This is a **documentation quality pass**, not a launch approval. A file may have
 
 ## Next-quality-pass acceptance
 Independent reviewer rehearses **every** session, tests venue/child handoff and consent pathways, reconciles one canonical priced budget, provides signed issue log, and verifies each document's external citations and definitions. Record closed issues and reopen on any material change.
+
+
+## Additional evidence produced after initial audit
+- `01_research/HYDERABAD_DESK_RESEARCH_2026-10-28.md`: ten public-source Hyderabad alternatives; not provider confirmations.
+- `01_research/COMPETITOR_EVIDENCE_REGISTER.csv`: ten dated entries; unpublished fees remain unknown.
+- `01_research/VERIFIED_POLICY_SOURCES.md`: primary official sources and legal applicability questions.
+- `04_business/CANONICAL_FINANCIAL_MODEL.md`: ₹110,000 fixed plus ₹1,400/child as **illustrative**, base direct contribution ₹42,000; replaces older ₹135,000 simplified estimate for comparative modelling.
+- Website prototype rewritten to use accessible headings and **no data collection**.
+
+No child-facing legal or developmental review has been secured.
