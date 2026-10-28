@@ -31,3 +31,15 @@ Hero: “Skills for life, room to grow.” Subhead: supervised real-world challe
 **UX acceptance:** mobile responsive, readable in relevant languages, accessible contrast and keyboard navigation, no misleading countdown, no stock image represented as participants, no child personal data collected through a static form.
 
 **Privacy:** no collection until secure infrastructure and legally reviewed guardian notice/consent exist. An interest list should initially store only authorized adult information.
+
+---
+## Detailed implementation supplement
+
+## Content and conversion acceptance
+**Hero:** “Skills for life. Room to grow.” Describe a hands-on supervised program for ages 9–12 without claims of guaranteed development. Sections: examples of realistic learning experiences; who facilitates; child choice and inclusion; how a typical three-hour session operates; guardian FAQs; what is not offered; safeguarding contacts; transparent research/pilot status.
+
+Until privacy review, the CTA should invite adults to request information through an approved contact channel; do not gather child names, school, date of birth or health information on an unreviewed website.
+
+**Accessibility:** responsive mobile design, keyboard access, readable contrast, plain language and language needs appropriate to Hyderabad. **Claims review:** no artificial scarcity counters, stock child images passed off as attendees, false testimonials, implied clinical outcomes or unverified fees/dates.
+
+**Release checklist:** founder approves positioning; safeguarding lead reviews imagery and interaction; counsel/privacy owner reviews collection; test failures, consent and unsubscribe routes. Keep a versioned page archive.
