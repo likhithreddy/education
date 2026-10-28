@@ -11,3 +11,16 @@ Attendance; allergy/accessibility briefing; emergency contacts; equipment inspec
 Three quotes where practical; contract, invoice, insurance, cancellation and safeguarding clauses; no collection of child data without approved agreement.
 ## Readiness drill
 Simulate missing pickup, minor injury, fire evacuation, disclosure of abuse, power outage, food allergy and staff absence. Document corrective actions before launch.
+
+
+---
+## Implementation expansion (requires review)
+
+## Run-of-show and responsibility matrix
+**Weekly T–7d:** program lead confirms staff availability, material stock, attendance forecast, accessibility requirements and outstanding incident follow-ups. **T–48h:** facilitator rehearses scenarios and specialist-approved adaptations. **T–2h:** safeguarding lead checks site, fire access, toilets, first-aid supplies, secure pickup and hazard changes. **T–30m:** staff briefing, child pseudonymous roster, safe staffing check. **Session:** supervised attendance, breaks, staff handoffs and factual observation. **T+1h:** verified pickup completion, incident reporting, inventory, secure records and weekly cost log.
+
+**RACI:** Founder accountable for commitments and budget; program lead responsible for scheduling; safeguarding lead accountable for child protection; facilitator responsible for instruction and behavior observations; privacy lead accountable for restricted records; independent reviewer approves age appropriateness.
+
+**Capacity:** review real floor space, activity type, access needs, evacuation flow and break coverage before determining child-to-adult ratio. Do not advertise a fixed maximum based only on economics.
+
+**Exception:** If safe staffing, venue, consent or pickup process is unavailable, cancel/modify the session before admission and provide parents a documented notification and remedy.
